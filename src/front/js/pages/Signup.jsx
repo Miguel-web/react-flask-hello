@@ -90,7 +90,7 @@ export const Signup = () => {
               onChange={handleChange}
             />
             <div id="passwordHelpBlock" className="form-text">
-              Your password must be at least 8 characters long.
+              Your password must be greather than 8 characters long.
             </div>
           </div>
         </div>
